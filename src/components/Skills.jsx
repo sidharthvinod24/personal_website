@@ -29,9 +29,9 @@ const Skills = () => {
         variants={variants}
         initial="hidden"
         whileInView="visible"
-        className="text-4xl font-light text-white md:text-6xl"
+        className="text-4xl font-light text-white md:text-5xl"
       >
-        💻 Technical Proficiencies
+        💻 Proficiencies
       </motion.h1>
       <div className="flex flex-wrap items-center justify-center gap-10 p-3">
         <motion.div
